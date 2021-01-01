@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-
-cp -vr $NIXFILES_DIR/* /etc/nixos/
-nixos-rebuild switch
